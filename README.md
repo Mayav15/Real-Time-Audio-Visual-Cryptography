@@ -2,8 +2,6 @@
 
 A real-time encryption pipeline for video and audio streams, designed for low-latency teleconferencing where data confidentiality matters. Combines **RSA**, **Diffie-Hellman key exchange**, and **mono-alphabetic substitution** to secure A/V transmission against differential, statistical, and brute-force attacks.
 
-This work was published as a peer-reviewed paper:
-**Multilayer Combined Symmetric and Asymmetric Approach for Audio and Video Cryptography** ([DOI: 10.1007/s11042-023-16401-x](https://doi.org/10.1007/s11042-023-16401-x))
 
 ## Highlights
 
