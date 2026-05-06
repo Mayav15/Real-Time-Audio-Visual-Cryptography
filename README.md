@@ -40,16 +40,4 @@ Webcam frames + Mic audio
 - [`Evaluation and Comparison/`](./Evaluation%20and%20Comparison/) — benchmark scripts and result data
 - [`Enhancing Security in Real-Time Audio and Video Communication.PDF`](./Enhancing%20Security%20in%20Real-Time%20Audio%20and%20Video%20Communication.PDF) — supplementary writeup
 
-## Citation
 
-If this work is useful in your research, please cite:
-
-```
-@article{antani2023multilayer,
-  title={Multilayer combined symmetric and asymmetric approach for audio and video cryptography},
-  author={Antani, Mayav Rohan and others},
-  journal={Multimedia Tools and Applications},
-  year={2023},
-  doi={10.1007/s11042-023-16401-x}
-}
-```
